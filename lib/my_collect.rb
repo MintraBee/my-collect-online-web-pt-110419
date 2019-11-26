@@ -8,3 +8,6 @@ my_collect(collection) do |lang|
   lang.upcase
 end
 
+def my_collect(array)
+  i = 0
+  collect = []
